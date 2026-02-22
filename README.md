@@ -1,18 +1,18 @@
-# 📝 To DO
+# TO-DO
 
 Sistema de gerenciamento de tarefas desenvolvido com **Nuxt** no front-end e **Laravel** no back-end.
 
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### 1. Pré-requisitos
-* PHP >= 8.2
-* Node.js >= 18.x
+* PHP 
+* Node.js 
 * Composer
 * MySQL ou SQLite
 ---
 
-### 🐘 Back-end (Laravel)
+### Back-end (Laravel)
 
 Abra o terminal na pasta do servidor( /api ):
 
@@ -43,7 +43,7 @@ Abra o terminal na pasta do servidor( /api ):
     ```
     O servidor rodará em: http://localhost:8000
 ---
-###  🖥 Front-end (Nuxt )
+###   Front-end (Nuxt )
   Abra outro terminal na pasta do frontend ( /frontend):
 1. **Instalar dependências:**
    ```bash
@@ -58,7 +58,7 @@ Abra o terminal na pasta do servidor( /api ):
 ###  ⚠️ Como acessar a aplicação:
 Para utilizar o sistema, você deve acessar o endereço do Nuxt no seu navegador:
 
-👉 **Acesso principal:** [http://localhost:3000](http://localhost:3000)
+ -> **Acesso principal:** [http://localhost:3000](http://localhost:3000)
 
 > **Nota:** O servidor do Laravel (`http://localhost:8000`) deve permanecer ligado em segundo plano para que a API funcione, mas a interação com o usuário acontece exclusivamente pela interface do Nuxt no endereço acima.
 
