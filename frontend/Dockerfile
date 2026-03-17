@@ -1,6 +1,5 @@
 FROM node:22-slim
 
-
 WORKDIR /frontend
 COPY package*.json ./
 

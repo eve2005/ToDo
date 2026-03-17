@@ -2,6 +2,11 @@
 
 Sistema de gerenciamento de tarefas desenvolvido com **Nuxt** no front-end e **Laravel** no back-end.
 
+## Como Rodar o Projeto 
+---
+1. **Clone o repositorio**
+---
+
 ## Como Rodar o Projeto COM DOCKER
 
 ### 1. Pré-requisitos
@@ -10,13 +15,11 @@ Sistema de gerenciamento de tarefas desenvolvido com **Nuxt** no front-end e **L
 
 ---
 
-1. **Clone o repositorio**
-   Acesse a raiz do projeto (./TODO)
+Acesse a raiz do projeto (./TODO) e rode:
    ```bash
-    docker compose up -d --build
+      docker compose up -d --build
    ```
 
----
 
 ## Como Rodar o Projeto sem DOCKER
 
